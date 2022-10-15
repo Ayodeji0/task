@@ -1,0 +1,8 @@
+.metrics{
+    height: 32px;
+    width: 104px;
+}
+.subheading{
+    display: flex;
+    justify-content: space-between;
+}
