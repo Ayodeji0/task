@@ -1,0 +1,45 @@
+.progressContainer{
+    height: 2%;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-left: 30px;
+    width: 95%;
+    display: flex;
+}
+
+.progressBar1{
+    height: 50%;
+    width: 45%;
+    background-color: #FFCC00;
+}
+
+.progressBar2{
+    height: 50%;
+    width: 30%;
+    background-color: #5856D5;
+}
+.progressBar3{
+    height: 50%;
+    width: 20%;
+    background-color: #2196F3;
+}
+.progressBar4{
+    height: 50%;
+    width: 20%;
+    background-color: #A0B0B9
+}
+.others{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 40px;
+}
+
+.otherspara{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 16px;
+color: #4A4A4A;
+}
