@@ -10,7 +10,7 @@ const buttons = [
     <Button key="three">Last 3 days</Button>,
   ];
 
-function Buttons() {
+function Buttons({label}) {
   return (
     <Box
       sx={{
@@ -23,7 +23,11 @@ function Buttons() {
       }}
     >
       <ButtonGroup size="small" aria-label="small button group">
-        {buttons}
+      {label.map((item, index)=>{
+                return(
+                  <Button key={index.toString()}>Last Hour</Button>
+                )
+              })}
       </ButtonGroup>
     
     </Box>
