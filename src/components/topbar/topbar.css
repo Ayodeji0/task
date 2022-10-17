@@ -1,0 +1,17 @@
+.topBarContainer{
+     padding-left: 20px; 
+}
+.topBarButton{
+    margin-right: 170px;
+}
+.topBarTitle{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+    color: #4A4A4A;
+    margin-bottom: 10px;
+    padding-left: 15px;
+}
+

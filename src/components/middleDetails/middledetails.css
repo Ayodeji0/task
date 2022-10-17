@@ -1,0 +1,50 @@
+.middledetails{
+    width: 100%;
+    height: 80px;
+ 
+}
+.middleWrapper{
+    height: 100%;
+    padding: 10px 5px;
+    padding-left: 50px;
+    margin: -7px;
+    margin-bottom: 30px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+ .middleLeftPara{
+margin-bottom: 20px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+color: #A0B0B9;
+}
+
+.middledetailsrectangle{
+    margin-bottom: 30px;
+    Width:608px;
+height:45px;
+Top:361px;
+Left:
+306px
+}
+svg {
+    height: 48px;
+    margin: 0 2em;
+    fill: darkorange;
+  }
+
+.middlehead{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+margin-bottom: -10px;
+font-size: 16px;
+line-height: 28px;
+color: #4A4A4A;
+}
